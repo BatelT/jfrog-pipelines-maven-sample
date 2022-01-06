@@ -1,4 +1,4 @@
-gitProvider: batelt
+gitProvider: git
 artifactory: art
 repoPath: batelt/jfrog-pipelines-maven-sample
 deployerRepo: maven-local
